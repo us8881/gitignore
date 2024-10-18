@@ -1,1 +1,1 @@
-git ignor 
+git ignor ignore
